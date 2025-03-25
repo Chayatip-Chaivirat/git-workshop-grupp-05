@@ -1,8 +1,12 @@
-def like_text():
-   like()
+from gustav import pizza
 
-def ask_user_input(text):
-   input(text)
+def tres():
+    nummer = int(input('skriv ett nummer')) 
+    sum = 3 + nummer
+    print(f'3+{nummer} ='f' {sum}')
+    pizza()
+    
+tres()
 
 def like():
    """Nåt är fel här"""
@@ -32,3 +36,4 @@ lol()
 
 from hej_goblin import say_hi
 say_hi()
+
