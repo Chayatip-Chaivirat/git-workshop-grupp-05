@@ -5,4 +5,5 @@ def tres():
     sum = 3 + nummer
     print(f'3+{nummer} ='f' {sum}')
     pizza()
+    
 tres()
