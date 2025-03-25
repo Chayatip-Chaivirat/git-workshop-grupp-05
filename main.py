@@ -1,4 +1,5 @@
 def tres():
-    sum = 3 + 3
-    print(sum)
+    nummer = input('skriv ett nummer')
+    sum = 3 + nummer
+    print('3 + ditt nummer = '+ sum)
 tres()
