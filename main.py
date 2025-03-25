@@ -29,3 +29,6 @@ def lol():
       print("The answer is no")
    
 lol()
+
+from hej_goblin import say_hi
+say_hi()
