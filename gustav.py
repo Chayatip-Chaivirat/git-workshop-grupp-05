@@ -1,1 +1,2 @@
-print('gustav')
+def pizza():
+    print('gustav')
