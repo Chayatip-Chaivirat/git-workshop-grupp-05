@@ -2,7 +2,7 @@ def like_text():
    like()
 
 def ask_user_input(text):
-   ask = input(text)
+   input(text)
 
 def like():
    """Nåt är fel här"""
