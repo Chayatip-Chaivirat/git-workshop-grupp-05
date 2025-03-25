@@ -8,7 +8,7 @@ def tres():
     
 tres()
 
-def like():
+def like_text():
    """Nåt är fel här"""
    ask_user_input("Skriv nåt: ")
    like_or_dislike = ask_user_input("Gillar du vad du har skrivit? ja/nej ")
