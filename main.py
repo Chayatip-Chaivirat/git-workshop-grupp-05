@@ -7,6 +7,8 @@ def tres():
     pizza()
     
 tres()
+def ask_user_input(text):
+   input(text)
 
 def like_text():
    """Nåt är fel här"""
